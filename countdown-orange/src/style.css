@@ -1,0 +1,36 @@
+
+table {
+      width : 100%;
+      max-width : 640px;
+      margin-top: 20px;
+      font-size: 24px;
+      font-weight : bold;
+      color : white;
+      border : 1px grey solid;
+      border-radius : 5px;
+      padding :10px;
+    
+    }
+
+   td {
+      width : 19% ;
+      padding-top : 15px;
+      padding-bottom : 15px;
+      background-color :#FE8A22 ;
+      border-radius : px;
+      text-align: center;
+    }
+
+.text {
+  font-size: 12px;
+  background-color : white;
+  color : #FE8A22 ;
+  font-weight : normal;
+  padding-bottom : 5px !important;
+  
+}
+
+.space {
+  background-color:white;
+  width: 8%;
+}
